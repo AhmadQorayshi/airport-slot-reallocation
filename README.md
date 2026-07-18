@@ -66,11 +66,11 @@ Qorayshi Karein, S. A., Seifi, A., & Ponnambalam, K.
 
 **Journal**
 
-[Journal of Air Transportation]
+Journal of Air Transportation
 
 **Status**
 
-[Under Review]
+Under Review
 
 ## Citation
 
@@ -88,7 +88,7 @@ This project is distributed under the MIT License.
 
 GitHub: https://github.com/AhmadQorayshi
 
-Email: S.A.Qorayshi@gmail.com
+Email: S.A.Qoreishi@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ahmadqoreishi/
 
